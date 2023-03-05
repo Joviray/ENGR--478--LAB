@@ -31,8 +31,8 @@ PortFunctionInit(void)
     // Enable the GPIO pin for the red LED (PF1).  Set the direction as output, and
     // enable the GPIO pin for digital function.
     //
-    GPIO_PORTF_DIR_R |= 0x08;
-    GPIO_PORTF_DEN_R |= 0x08;
+    GPIO_PORTF_DIR_R |= GREEN_MASK;
+    GPIO_PORTF_DEN_R |= GREEN_MASK;
 
 }
 
@@ -44,7 +44,7 @@ int main(void)
 		PortFunctionInit();
 	
     // Turn on the LED.
-    GPIO_PORTF_DATA_R |= 0x08;
+    GPIO_PORTF_DATA_R |= GREEN_MASK;
 
     
     //
