@@ -467,7 +467,7 @@
                   <MiscControls></MiscControls>
                   <Define></Define>
                   <Undefine></Undefine>
-                  <IncludePath>..\ti\TivaWare_C_Series-2.1.4.178</IncludePath>
+                  <IncludePath>..\ti\TivaWare_C_Series-2.1.4.178\driverlib\rvmdk\driverlib.lib</IncludePath>
                 </VariousControls>
               </Cads>
               <Aads>

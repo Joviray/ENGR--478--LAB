@@ -1,0 +1,12 @@
+.\lab6systick.o: Lab6SysTick.c
+.\lab6systick.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\lab6systick.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\lab6systick.o: C:\Users\j3241\OneDrive\Documents\Desktop\Documents\GitHub\ENGR--478--LAB\ti\TivaWare_C_Series-2.1.4.178\inc/hw_types.h
+.\lab6systick.o: C:\Users\j3241\OneDrive\Documents\Desktop\Documents\GitHub\ENGR--478--LAB\ti\TivaWare_C_Series-2.1.4.178\inc/hw_memmap.h
+.\lab6systick.o: C:\Users\j3241\OneDrive\Documents\Desktop\Documents\GitHub\ENGR--478--LAB\ti\TivaWare_C_Series-2.1.4.178\inc/hw_gpio.h
+.\lab6systick.o: C:\Users\j3241\OneDrive\Documents\Desktop\Documents\GitHub\ENGR--478--LAB\ti\TivaWare_C_Series-2.1.4.178\driverlib/sysctl.h
+.\lab6systick.o: C:\Users\j3241\OneDrive\Documents\Desktop\Documents\GitHub\ENGR--478--LAB\ti\TivaWare_C_Series-2.1.4.178\driverlib/pin_map.h
+.\lab6systick.o: C:\Users\j3241\OneDrive\Documents\Desktop\Documents\GitHub\ENGR--478--LAB\ti\TivaWare_C_Series-2.1.4.178\driverlib/gpio.h
+.\lab6systick.o: C:\Users\j3241\OneDrive\Documents\Desktop\Documents\GitHub\ENGR--478--LAB\ti\TivaWare_C_Series-2.1.4.178\driverlib/interrupt.h
+.\lab6systick.o: C:\Users\j3241\OneDrive\Documents\Desktop\Documents\GitHub\ENGR--478--LAB\ti\TivaWare_C_Series-2.1.4.178\driverlib/systick.h
+.\lab6systick.o: C:\Users\j3241\OneDrive\Documents\Desktop\Documents\GitHub\ENGR--478--LAB\ti\TivaWare_C_Series-2.1.4.178\inc/tm4c123gh6pm.h

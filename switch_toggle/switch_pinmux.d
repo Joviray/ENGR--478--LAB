@@ -1,0 +1,11 @@
+.\switch_pinmux.o: switch_PinMux.c
+.\switch_pinmux.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\switch_pinmux.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\switch_pinmux.o: switch_PinMux.h
+.\switch_pinmux.o: C:\Users\j3241\OneDrive\Documents\Desktop\Documents\GitHub\ENGR--478--LAB\ti\TivaWare_C_Series-2.1.4.178\inc/hw_types.h
+.\switch_pinmux.o: C:\Users\j3241\OneDrive\Documents\Desktop\Documents\GitHub\ENGR--478--LAB\ti\TivaWare_C_Series-2.1.4.178\inc/hw_memmap.h
+.\switch_pinmux.o: C:\Users\j3241\OneDrive\Documents\Desktop\Documents\GitHub\ENGR--478--LAB\ti\TivaWare_C_Series-2.1.4.178\inc/hw_gpio.h
+.\switch_pinmux.o: C:\Users\j3241\OneDrive\Documents\Desktop\Documents\GitHub\ENGR--478--LAB\ti\TivaWare_C_Series-2.1.4.178\driverlib/sysctl.h
+.\switch_pinmux.o: C:\Users\j3241\OneDrive\Documents\Desktop\Documents\GitHub\ENGR--478--LAB\ti\TivaWare_C_Series-2.1.4.178\driverlib/pin_map.h
+.\switch_pinmux.o: C:\Users\j3241\OneDrive\Documents\Desktop\Documents\GitHub\ENGR--478--LAB\ti\TivaWare_C_Series-2.1.4.178\driverlib/gpio.h
+.\switch_pinmux.o: C:\Users\j3241\OneDrive\Documents\Desktop\Documents\GitHub\ENGR--478--LAB\ti\TivaWare_C_Series-2.1.4.178\inc/tm4c123gh6pm.h
